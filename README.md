@@ -1,3 +1,2 @@
 # CPIS452
-
-kj;\lllb
+American collage dataset
